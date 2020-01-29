@@ -5,4 +5,5 @@ Hace referencia al sistema de navegación asistida por mensajes de audio. La con
 **NOTA:** las pruebas de este componente dependen del componente visualización/móvil y están relacionadas con la estrategia de socialización de la solución.
 
 Pruebas sugeridas: 
-1. Contrastar el valor cuantitativo del indicador que arroja para un barrio en el componente móvil con el valor que arroja el modelo en escritorio. Revisar la pertinencia del mensaje y validar la construcción de un mensaje cualitativo.
+1. Contrastar el valor cuantitativo del indicador que arroja para un barrio en el componente móvil con el valor que arroja el modelo en escritorio. 
+2. Revisar la pertinencia del mensaje y validar la construcción de un mensaje cualitativo.
